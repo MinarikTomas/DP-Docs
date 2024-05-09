@@ -32,3 +32,5 @@ Pre spravovanie používateľov systému treba ako prvé vybrať možnosť users
 ![Dialógové okno na pridanie roly](/addrole.png)
 - Vyberte zo zoznamu rolu, ktorú chcete vymazať
 - Kliknutím na tlačidlo Delete bude rola odstránená
+## Karty
+Pre spravovanie kariet v systéme treba ako prvé vybrať možnosť cards z bočného menu
