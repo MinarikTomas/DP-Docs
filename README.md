@@ -51,3 +51,32 @@ Pre spravovanie kariet v systéme treba ako prvé vybrať možnosť cards z boč
 - ### Filtrovanie záznamov
 - Hľadanú hodnotu zadajte do poľa, ktoré sa nachádza na vrchu tabuľky s kartami v stĺpci v ktorom danú hodnotu hladáte
 ![Filtrovanie](/searchcards.png)
+## Aktivity
+Pre spravovanie aktivít v systéme treba ako prvé vybrať možnosť activities z bočného menu
+![Bočné menu](/menu-activity.png)
+### Pridanie aktivity
+- Kliknutím na tlačidlo Add activity, ktoré sa nachádza vo vrchnej časti webovej stránky sa zobrazí formulár pre pridanie aktivity
+![Formulár na pridanie aktivity](/activityform.png)
+- Vo formulári je potrebné vyplniť všetky polia.
+- Kliknutím na tlačidlo Save vo vrchnej časti formulára bude aktivita uložená
+- ### Upravenie aktivity
+- Klinkutim na záznam v tabuľke s aktivitami sa zobrazí formulár s hodnotami danej aktivity
+![Formulár s aktivitou](/activityform2.png)
+- Vo formulári môžete zmeniť hodnotu v ľubovolnom poli(okrem id)
+- Klinkutím na tlačidlo Save vo vrchnej časti formulára budú zmeny uložené
+### Vymazanie aktivity 
+- Vyberiete aktivitu rovnako ako pri upravovaní aktivity
+- Kliknutím na tlačidlo Delete vo vrhcnej časti formulára bude aktivita vymazaná
+### Pridanie účastníka na aktivitu
+- Vyberte aktivitu rovnako ako pri upravovaní aktivity
+- Kliknutím na tlačidlo Add participant sa zobrazí dialógové okno na pridanie účastníka
+![Dialógové okno na pridanie účastníka](/addpart.png)
+- Zadajte id karty účastníka
+- Kliknutím na tlačidlo Add bude účastník pridaný na aktivitu
+### Odstránenie účastníka z aktivity
+- Vaberte aktivitu rovnako ako pri upravovaní aktivity
+- Kliknutím na červenú ikonu koša v tabuľke s účastníkmi bude účastník odstránení z aktivity
+![Odstránenie účastníka](/deletepar.png)
+- ### Filtrovanie záznamov
+- Hľadanú hodnotu zadajte do poľa, ktoré sa nachádza na vrchu tabuľky s aktivitami v stĺpci v ktorom danú hodnotu hladáte
+![Filtrovanie](/searchact.png)
