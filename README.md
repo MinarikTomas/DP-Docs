@@ -34,3 +34,20 @@ Pre spravovanie používateľov systému treba ako prvé vybrať možnosť users
 - Kliknutím na tlačidlo Delete bude rola odstránená
 ## Karty
 Pre spravovanie kariet v systéme treba ako prvé vybrať možnosť cards z bočného menu
+![Bočné menu](/menu-cards.png)
+### Pridanie karty
+- Kliknutím na tlačidlo Add card, ktoré sa nachádza vo vrchnej časti webovej stránky sa zobrazí formulár pre pridanie karty
+![Formulár na pridanie karty](/cardform.png)
+- Vo formulári je potrebné vyplniť všetky polia.
+- Kliknutím na tlačidlo Save vo vrchnej časti formulára bude karta uložená
+### Upravenie karty
+- Klinkutim na záznam v tabuľke s kartami sa zobrazí formulár s hodnotami danej karty
+![Formulár s kartou](/cardform2.png)
+- Vo formulári môžete zmeniť hodnotu v ľubovolnom poli(okrem id)
+- Klinkutím na tlačidlo Save vo vrchnej časti formulára budú zmeny uložené
+### Vymazanie karty  
+- Vyberiete kartu rovnako ako pri upravovaní karty
+- Kliknutím na tlačidlo Delete vo vrhcnej časti formulára bude karta vymazaná
+- ### Filtrovanie záznamov
+- Hľadanú hodnotu zadajte do poľa, ktoré sa nachádza na vrchu tabuľky s kartami v stĺpci v ktorom danú hodnotu hladáte
+![Filtrovanie](/searchcards.png)
