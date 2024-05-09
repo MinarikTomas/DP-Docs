@@ -28,7 +28,7 @@ Pre spravovanie používateľov systému treba ako prvé vybrať možnosť users
 - Kliknutím na tlačidlo Add bude rola pridaná
 ### Odstránenie používateľskej roly
 - Kliknutím na tlačidlo Delete role, ktoré sa nachádza vo vrchnej časti webovej stránky sa zobrazí dialógové okna na odstránenie roly
-![Dialógové okno na pridanie roly](/addrole.png)
+![Dialógové okno na pridanie roly](/deleterole.png)
 - Vyberte zo zoznamu rolu, ktorú chcete vymazať
 - Kliknutím na tlačidlo Delete bude rola odstránená
 ## Karty
