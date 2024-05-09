@@ -2,5 +2,5 @@
 Administrácia docházdkového systému sa vykonavá pomocou webovej aplikácie.
 ## Príhlásenie
 Na prihlásenie do systému sa používa email a heslo.
-![Prihlasovací formulár](/login.png)
+![Prihlasovací formulár]([/login.png](https://github.com/MinarikTomas/DP-Docs/blob/main/login.png))
 ## Používatelia
