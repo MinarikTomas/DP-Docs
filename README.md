@@ -2,10 +2,10 @@
 Administrácia docházdkového systému sa vykonavá pomocou webovej aplikácie.
 ## Príhlásenie
 Na prihlásenie do systému sa používa email a heslo.
-![Prihlasovací formulár]([/login.png](https://github.com/MinarikTomas/DP-Docs/blob/main/login.png))
+![Prihlasovací formulár](/login.png)
 ## Používatelia
 Pre spravovanie používateľov systému treba ako prvé vybrať možnosť users z bočného menu
-![Bočné menu](https://github.com/MinarikTomas/DP-Docs/blob/main/menu%20user.png)
+![Bočné menu](/menu-user.png)
 ### Pridanie používateľa
 - Kliknutím na tlačidlo Add user, ktoré sa nachádza vo vrchnej časti webovej stránky sa zobrazí formulár pre pridanie používateľa
 ![Formulár na pridanie používateľa](/userform.png)
